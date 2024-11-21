@@ -1,2 +1,2 @@
-aastha,1478,asd,2589
-adi,3698,asd,1234
+aastha,1478,aastha@gmail.com,2589
+adi,3698,adi@gmail.com,1234
