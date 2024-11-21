@@ -1,0 +1,58 @@
+What does HTML stand for?, 1) Hyper Text Markup Language, 2) High-Level Text Markup Language, 3) Hyperlink and Text Markup Language, 4) Hyper Text Multi Language, 1, HTML
+Which tag is used to define an unordered list in HTML?, 1) <ol>, 2) <ul>, 3) <li>, 4) <list>, 2, HTML
+Which HTML tag is used to create a hyperlink?, 1) <link>, 2) <a>, 3) <url>, 4) <hyperlink>, 2, HTML
+What is the correct HTML element for inserting a line break?, 1) <br>, 2) <lb>, 3) <break>, 4) <linebreak>, 1, HTML
+Which attribute is used to specify the destination of a hyperlink?, 1) src, 2) href, 3) link, 4) destination, 2, HTML
+What is the purpose of the <head> tag in HTML?, 1) To display the main content, 2) To contain metadata, 3) To create links, 4) To add images, 2, HTML
+Which of the following is a valid HTML color attribute?, 1) color, 2) font-color, 3) text-color, 4) background-color, 1, HTML
+What is the default file extension for an HTML file?, 1) .htm, 2) .html, 3) .txt, 4) .doc, 2, HTML
+Which tag is used to create a table in HTML?, 1) <table>, 2) <tab>, 3) <tbody>, 4) <tr>, 1, HTML
+What tag is used to define an image in HTML?, 1) <img>, 2) <image>, 3) <pic>, 4) <photo>, 1, HTML
+Which of the following elements is a block-level element?, 1) <span>, 2) <div>, 3) <a>, 4) <strong>, 2, HTML
+How can you open a link in a new tab?, 1) target="_blank", 2) newtab="true", 3) open="new", 4) target="new", 1, HTML
+Which HTML tag is used to define the title of a webpage?, 1) <title>, 2) <head>, 3) <meta>, 4) <header>, 1, HTML
+What is the purpose of the <meta> tag in HTML?, 1) To create links, 2) To define scripts, 3) To provide metadata, 4) To define styles, 3, HTML
+Which tag is used for the largest heading in HTML?, 1) <h6>, 2) <h1>, 3) <header>, 4) <head>, 2, HTML
+Which attribute specifies an alternate text for an image if the image cannot be displayed?, 1) alt, 2) src, 3) title, 4) text, 1, HTML
+What tag is used to create a checkbox in an HTML form?, 1) <check>, 2) <checkbox>, 3) <input type="checkbox">, 4) <input type="check">, 3, HTML
+How do you create a drop-down list in HTML?, 1) <list>, 2) <input type="dropdown">, 3) <select>, 4) <option>, 3, HTML
+Which tag is used to define a form in HTML?, 1) <form>, 2) <input>, 3) <fieldset>, 4) <submit>, 1, HTML
+What is the purpose of the <footer> tag in HTML?, 1) To define the main content, 2) To contain footer information, 3) To create a navigation menu, 4) To display a header, 2, HTML
+What is the correct file extension for Python files?, 1) .py, 2) .python, 3) .pyt, 4) .txt, 1, Python
+Which of the following is a valid variable name in Python?, 1) 1variable, 2) variable_1, 3) variable-1, 4) variable 1, 2, Python
+What keyword is used to create a function in Python?, 1) function, 2) def, 3) create, 4) func, 2, Python
+Which of the following is used to comment a line in Python?, 1) //, 2) /*, 3) #, 4) <!--, 3, Python
+What will be the output of print(2 ** 3)?, 1) 6, 2) 8, 3) 9, 4) 4, 2, Python
+Which of the following data types is not built-in in Python?, 1) List, 2) Tuple, 3) Map, 4) Dictionary, 3, Python
+What is the correct way to create a list in Python?, 1) list = [], 2) list = {}, 3) list = (), 4) list = <>, 1, Python
+Which method is used to add an element to a list in Python?, 1) add(), 2) append(), 3) insert(), 4) push(), 2, Python
+What is the output of the following code: print(type(3.14))?, 1) <class 'int'>, 2) <class 'float'>, 3) <class 'str'>, 4) <class 'list'>, 2, Python
+Which keyword is used to handle exceptions in Python?, 1) try, 2) except, 3) handle, 4) catch, 2, Python
+What is the output of the expression 5 == 5?, 1) True, 2) False, 3) 5, 4) None, 1, Python
+Which of the following is a mutable data type in Python?, 1) Tuple, 2) List, 3) String, 4) Dictionary, 2, Python
+How do you create a dictionary in Python?, 1) dict = [], 2) dict = {}, 3) dict = (), 4) dict = <>, 2, Python
+Which function is used to get the length of a list in Python?, 1) len(), 2) length(), 3) count(), 4) size(), 1, Python
+What does the 'pass' statement do in Python?, 1) It terminates the program, 2) It skips to the next iteration, 3) It does nothing, 4) It raises an error, 3, Python
+Which operator is used for floor division in Python?, 1) /, 2) //, 3) %, 4) div, 2, Python
+What is the output of the following code: print('Hello' + 'World')?, 1) Hello World, 2) HelloWorld, 3) Hello+World, 4) Error, 2, Python
+Which of the following is not a Python built-in function?, 1) sum(), 2) min(), 3) max(), 4) count(), 4, Python
+What will be the output of print(bool('False'))?, 1) True, 2) False, 3) None, 4) Error, 1, Python
+What does DBMS stand for?, 1) Database Management System, 2) Data Base Management Service, 3) Data Base Maintenance System, 4) Database Maintenance Service, 1, DBMS
+Which of the following is a type of DBMS?, 1) Relational, 2) Hierarchical, 3) Network, 4) All of the above, 4, DBMS
+Which command is used to retrieve data from a database?, 1) GET, 2) SELECT, 3) FETCH, 4) PULL, 2, DBMS
+What is a primary key?, 1) A key that can be null, 2) A unique identifier for a record, 3) A key used to link tables, 4) A key that duplicates values, 2, DBMS
+Which of the following is not a DBMS?, 1) MySQL, 2) Oracle, 3) Python, 4) SQL Server, 3, DBMS
+What is normalization?, 1) Reducing data redundancy, 2) Increasing data redundancy, 3) Creating a database, 4) None of the above, 1, DBMS
+Which SQL statement is used to create a table?, 1) CREATE TABLE, 2) NEW TABLE, 3) MAKE TABLE, 4) ADD TABLE, 1, DBMS
+What is a foreign key?, 1) A key that can be null, 2) A unique key in the same table, 3) A key used to link to another table, 4) A primary key in the same table, 3, DBMS
+Which SQL statement is used to update data in a database?, 1) MODIFY, 2) UPDATE, 3) CHANGE, 4) EDIT, 2, DBMS
+What is a data dictionary?, 1) A list of users, 2) A database schema, 3) A set of metadata, 4) A type of query, 3, DBMS
+Which of the following is used to enforce referential integrity?, 1) Primary key, 2) Foreign key, 3) Unique key, 4) Composite key, 2, DBMS
+Which of the following is not a SQL command?, 1) SELECT, 2) DELETE, 3) PRINT, 4) INSERT, 3, DBMS
+What is an index in a database?, 1) A way to store data, 2) A way to retrieve data faster, 3) A key used to connect tables, 4) A type of data, 2, DBMS
+What is a database schema?, 1) The physical structure of a database, 2) A blueprint of a database, 3) The data stored in a database, 4) The data types in a database, 2, DBMS
+Which of the following operations is not a part of CRUD?, 1) Create, 2) Read, 3) Update, 4) Execute, 4, DBMS
+What does SQL stand for?, 1) Structured Query Language, 2) Simple Query Language, 3) Sequential Query Language, 4) Standard Query Language, 1, DBMS
+Which of the following is an aggregate function in SQL?, 1) SUM, 2) AVG, 3) COUNT, 4) All of the above, 4, DBMS
+What is a transaction in a database?, 1) A single operation, 2) A sequence of operations, 3) A query, 4) A data entry, 2, DBMS
+What does ACID stand for in the context of databases?, 1) Atomicity Consistency Isolation Durability, 2) Accuracy Consistency Integrity Durability, 3) Atomicity Consistency Integrity Durability, 4) None of the above, 1, DBMS
